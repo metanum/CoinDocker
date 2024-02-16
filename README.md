@@ -34,7 +34,7 @@ Building CoinDocker
 ## Preparing the build environment
 
 ```bash
-npm --install
+npm install node-fetch
 ```
 ```bash
 node CoinDocker.js
