@@ -13,7 +13,7 @@ and checking out the branch you desire.
 You can clone the latest Proton to your system with this command:
 
 ```bash
-git clone --recurse-submodules https://github.com/metanum/CoinDocker.git proton
+git clone --recurse-submodules https://github.com/metanum/CoinDocker.git
 ```
 
 Be sure to update submodules when switching between branches:
